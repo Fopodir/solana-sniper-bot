@@ -228,7 +228,7 @@ If this bot helps you learn or profit:
 
 ## 👨‍💻 Built by \[Cryptoking❤]
 
-* Telegram: [@cryptoking110600](https://t.me/cryptoking110600)
+* Telegram: [@cryptokingmax0](https://t.me/cryptokingmax0)
 * GitHub: [https://github.com/cryptoking-max](https://github.com/cryptoking-max)
 * For paid sniper bot builds or Solana consulting, Feel free to contact me.
 
